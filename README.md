@@ -3,7 +3,6 @@ View [Lucy Simulator Nostalgic](https://github.com/threesodas/lucy-simulator-nos
 
 ### These tools allow you to create modded versions of Lucy Sim.
 
-<br />
 # How to create a mod for Lucy Simulator Nostalgic
 
 ## Getting Started
